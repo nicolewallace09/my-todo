@@ -6,6 +6,7 @@
 
 body {
   background-color: #fab1a0;
+  font-family: 'Montserrat', sans-serif;
 }
 
 header {
@@ -36,11 +37,10 @@ header {
   align-items: center;
   padding: 30px 20px 0;
   width: 70%;
-  border-bottom: 1px solid #f8c291;
-  font-family: Roboto, sans-serif;
-  font-weight: 100;
+  border-bottom: 1px solid #fab1a0;
+  font-weight: 500;
   font-size: 15px;
-  color: #333333;
+  color: #e17055;
 }
 
 input[type=checkbox] {
